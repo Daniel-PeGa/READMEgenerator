@@ -1,6 +1,15 @@
 # READMEgenerator
 
+## Project Description
+
+This is a simple project that makes use of inquirer to prompt the user through the command line specific questions regarding the structure of a proffessional-looking README.md file. Funny enough, I havent used it for this, but it does work.
+
+## Future development
+
+I'd like to fix the probleem it's been having with the badges not working and maybe adding some more work to make it seem cooler and all
+
 ## User Story
+
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
@@ -22,3 +31,7 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
+
+## Screenshot 
+
+<img width="1470" alt="readmeGenerator" src="https://user-images.githubusercontent.com/106125888/211228033-d1a17582-5e5e-4b04-a07f-3b41637d5065.png">
